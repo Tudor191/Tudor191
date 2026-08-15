@@ -100,7 +100,7 @@ Status      : ONLINE
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=00000000&color=00F7FF&line=00FF88&point=FFFFFF&area=true&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Tudor191&bg_color=00000000&color=00F7FF&line=00FF88&point=FFFFFF&area=true&hide_border=true"/>
 
 </div>
 
