@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=230&section=header&text=TUDOR&fontSize=75&fontColor=00F7FF&animation=twinkling&fontAlignY=42&color=0:000000,45:00151A,100:000000" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=230&section=header&text=TUDOR&fontSize=75&fontColor=FFFFFF&animation=twinkling&fontAlignY=42&color=0:00F7FF,50:008CFF,100:7A00FF" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2200&pause=700&color=00FF88&center=true&vCenter=true&width=850&lines=%3E+INITIALIZING+TUDOR.EXE...;%3E+LOADING+PROFILE...;%3E+SYSTEM+ONLINE;%3E+ELECTRICAL+ENGINEERING+STUDENT;%3E+DEVELOPER;%3E+HARDWARE+%2B+SOFTWARE+%2B+AI;%3E+CS2+ENTHUSIAST" />
 
@@ -209,6 +209,6 @@ tudor@github:~$ _
 
 <br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&animation=twinkling&color=0:000000,50:001820,100:000000"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&animation=twinkling&color=0:7A00FF,50:008CFF,100:00F7FF"/>
 
 </div>
