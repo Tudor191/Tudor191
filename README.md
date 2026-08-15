@@ -19,12 +19,12 @@
 ║                                                              ║
 ║  STATUS       : ● ONLINE                                     ║
 ║  SYSTEM       : WINDOWS                                      ║
-║  EDUCATION    : ELECTRICAL ENGINEERING                      ║
-║  ROLE         : STUDENT / DEVELOPER                         ║
-║  FOCUS        : SOFTWARE / HARDWARE / AI                    ║
-║  GAMING       : COUNTER-STRIKE 2                            ║
+║  EDUCATION    : ELECTRICAL ENGINEERING                       ║
+║  ROLE         : STUDENT / DEVELOPER                          ║
+║  FOCUS        : SOFTWARE / HARDWARE / AI                     ║
+║  GAMING       : COUNTER-STRIKE 2                             ║
 ║                                                              ║
-║  SYSTEM LOAD  : ████████████████████ 100%                   ║
+║  SYSTEM LOAD  : ████████████████████ 100%                    ║
 ║                                                              ║
 ╚══════════════════════════════════════════════════════════════╝
 ```
@@ -81,7 +81,7 @@ Status      : ONLINE
 │  ⚙️  IoT               [████████████████░░░░]              │
 │  🔌 Hardware           [███████████████░░░░░]              │
 │  💬 Discord Bots       [██████████████████░░]              │
-│  💻 Software           [█████████████████░░░]              │
+│  💻 Software           [█████████████████░░░]               │
 │                                                             │
 └─────────────────────────────────────────────────────────────┘
 ```
@@ -183,19 +183,19 @@ tudor@github:~$ _
 
 <div align="center">
 
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/Tudor191">
 <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00F7FF"/>
 </a>
 
-<a href="YOUR_DISCORD_URL">
+<a href="https://discord.gg/AgFGrgmnJH">
 <img src="https://img.shields.io/badge/Discord-000000?style=for-the-badge&logo=discord&logoColor=5865F2"/>
 </a>
 
-<a href="YOUR_YOUTUBE_URL">
+<a href="https://www.youtube.com/@tdrlive191">
 <img src="https://img.shields.io/badge/YouTube-000000?style=for-the-badge&logo=youtube&logoColor=FF0000"/>
 </a>
 
-<a href="YOUR_STEAM_URL">
+<a href="https://steamcommunity.com/id/tudorcosmin/">
 <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=FFFFFF"/>
 </a>
 
