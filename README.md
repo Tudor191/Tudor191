@@ -90,7 +90,7 @@ Status      : ONLINE
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&bg_color=00000000&title_color=00F7FF&icon_color=00FF88&text_color=FFFFFF&rank_icon=github"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Tudor191&show_icons=true&hide_border=true&bg_color=00000000&title_color=00F7FF&icon_color=00FF88&text_color=FFFFFF&rank_icon=github"/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&bg_color=00000000&title_color=00F7FF&text_color=FFFFFF"/>
 
